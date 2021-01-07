@@ -1,0 +1,42 @@
+.main.User {
+    justify-content: center;  /*superfluos*/
+    align-items: center;      /*superfluos*/
+}
+.data > h2{
+    align-self: flex-start;
+    color: rgb(65, 65, 65);
+}
+.main.User .wrapper.ed {
+    display: flex;
+    justify-content: space-evenly;
+    height: 75%;
+}
+.main.User .ed .column {
+    margin: 0px;
+}
+.main.User >.data{
+    display: flex;
+    justify-content: space-evenly;
+    height: 70vh;
+    width: 60%;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0);
+}
+#formEdit{
+    display: flex;
+    height: 70%;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+#Edit:after {
+    content:'Update';
+}
+.main.User >.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+    width: 30%;
+}
+

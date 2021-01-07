@@ -1,0 +1,50 @@
+
+.Instr {
+    position: relative;
+    display: inline;
+    width: 50%;
+    height:76vh;
+    padding: 0px 5% 0px 5%;
+    box-shadow:  inset 0px -5% 5px 5px black, inset 0px -3% 3px 3px rgb(53, 53, 53);
+}
+.Instr.Image {
+    display: flex;
+    width: 40%;
+    overflow: hidden;
+    justify-content: center;
+    align-items: center;
+    background: rgba(38,52,69,1);
+    background-size: cover;
+}
+.Instr.Image > img{
+    height: 90%;
+}
+.Instr.Text{
+    display: relative;
+    width: 60%;
+    background: rgba(38,52,69,1);
+    box-shadow:  inset 13px -13px 17px -10px black;
+}
+.Instr.Text > h1{
+    color: white;
+    margin-bottom: 5%;
+}
+.description{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+#intro{
+    background-color: rgba(179, 255, 2, 0);
+}
+#controls{
+    display: flex;  
+    justify-content: center;   /*horizontal alignment*/
+    border-radius: 10%;
+    box-shadow:  inset 5px -5px 20px -2px black;
+    padding: 2%;
+}
+#contrText{
+    color: #d8d83f;
+}
+/*--------------------------------------------------------------------*/

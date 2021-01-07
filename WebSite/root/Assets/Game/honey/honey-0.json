@@ -1,0 +1,29 @@
+{"frames": {
+
+"Livello-1.png":
+{
+	"frame": {"x":0,"y":0,"w":1587,"h":834},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1587,"h":834},
+	"sourceSize": {"w":1587,"h":834}
+},
+"Livello-10.png":
+{
+	"frame": {"x":0,"y":834,"w":1587,"h":834},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1587,"h":834},
+	"sourceSize": {"w":1587,"h":834}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "honey-0.png",
+	"format": "RGBA8888",
+	"size": {"w":1587,"h":1668},
+	"scale": "1",
+	"related_multi_packs": [ "honey-1.json", "honey-2.json", "honey-3.json", "honey-4.json", "honey-5.json", "honey-6.json", "honey-7.json", "honey-8.json", "honey-9.json", "honey-10.json", "honey-11.json", "honey-12.json", "honey-13.json", "honey-14.json", "honey-15.json", "honey-16.json", "honey-17.json", "honey-18.json", "honey-19.json", "honey-20.json", "honey-21.json", "honey-22.json", "honey-23.json", "honey-24.json", "honey-25.json", "honey-26.json", "honey-27.json", "honey-28.json", "honey-29.json", "honey-30.json", "honey-31.json", "honey-32.json", "honey-33.json", "honey-34.json", "honey-35.json", "honey-36.json", "honey-37.json", "honey-38.json", "honey-39.json", "honey-40.json", "honey-41.json", "honey-42.json", "honey-43.json", "honey-44.json", "honey-45.json", "honey-46.json", "honey-47.json", "honey-48.json", "honey-49.json", "honey-50.json", "honey-51.json", "honey-52.json", "honey-53.json", "honey-54.json", "honey-55.json", "honey-56.json", "honey-57.json", "honey-58.json", "honey-59.json", "honey-60.json", "honey-61.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:2f201a21c94544ca5acf8862d5bc45d1:9e7c650a8335bba6e79b41db5de33743:1574e10b71f3546b91bee43a52ac2a3a$"
+}
+}
