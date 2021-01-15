@@ -8,3 +8,10 @@ otherwise the dynamic "account" page will not work.
 
 Thanks for your time.
 Enjoy the website :)
+
+
+![alt text](Description/media/game (1).jpg "Main page")
+![alt text](Description/media/game (2).jpg "Main page")
+![alt text](Description/media/game (3).jpg "Main page")
+![alt text](Description/media/game (4).jpg "Main page")
+![alt text](Description/media/game (5).jpg "Main page")
