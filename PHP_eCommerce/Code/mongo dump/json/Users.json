@@ -1,0 +1,91 @@
+{ 
+    "_id" : ObjectId("60246c5958660000de001561"), 
+    "Name" : "Francesco", 
+    "Surname" : "Arrabito", 
+    "Email" : "francyccio93@gmail.it", 
+    "Nickname" : "Francy.93", 
+    "Address" : "london Quay", 
+    "Password" : "12345678", 
+    "Balance" : 374.79999999999995, 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602eb38398fb87694905e65c"), 
+    "Name" : "Ale", 
+    "Surname" : "Arry", 
+    "Email" : "ale@gmail.com", 
+    "Nickname" : "Ale.96", 
+    "Address" : "Rome", 
+    "Password" : "12345678", 
+    "Balance" : "397.03", 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602eb3b898fb87694905e65d"), 
+    "Name" : "Adam", 
+    "Surname" : "Lati", 
+    "Email" : "adalat@gmail.com", 
+    "Nickname" : "Ada11", 
+    "Address" : "London", 
+    "Password" : "12345678", 
+    "Balance" : "500.00", 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602eb3d398fb87694905e65e"), 
+    "Name" : "Dodo", 
+    "Surname" : "fra", 
+    "Email" : "dodo@gmail.com", 
+    "Nickname" : "dodofra11", 
+    "Address" : "London", 
+    "Password" : "12345678", 
+    "Balance" : 49635.0, 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602eb3ef98fb87694905e65f"), 
+    "Name" : "Daiys", 
+    "Surname" : "Sci", 
+    "Email" : "dasysci@gmail.com", 
+    "Nickname" : "Dasci11", 
+    "Address" : "Italy", 
+    "Password" : "12345678", 
+    "Balance" : 500.0, 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602eef4a98fb87694905e673"), 
+    "Name" : "James", 
+    "Surname" : "Eps", 
+    "Email" : "eps@gmail.com", 
+    "Nickname" : "jam11", 
+    "Address" : "London", 
+    "Password" : "12345678", 
+    "Balance" : 500.0, 
+    "Cart" : {
+
+    }
+}
+{ 
+    "_id" : ObjectId("602fc14e57750000640024a4"), 
+    "Email" : "adam@me.com", 
+    "Name" : "adam", 
+    "Surname" : "latif", 
+    "Address" : "home", 
+    "Nickname" : "adamlatif", 
+    "Password" : "password4", 
+    "Balance" : 86.0, 
+    "Cart" : {
+
+    }
+}

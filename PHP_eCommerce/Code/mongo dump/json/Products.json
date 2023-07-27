@@ -1,0 +1,397 @@
+{ 
+    "_id" : ObjectId("6004ca5fae9ac6362438b4ab"), 
+    "Category" : "Shirts", 
+    "Title" : "Red hoodie", 
+    "Description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente dicta fugit fugiat hic aliquam itaque facere, soluta. Totam id dolores, sint aperiam sequi pariatur praesentium animi perspiciatis molestias iure, ducimus!", 
+    "Price" : "50", 
+    "Stars" : 4.0, 
+    "Src" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/13.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602872dd47043023e67bdff0"), 
+    "Category" : "Shirts", 
+    "Title" : "Blue denim shirt", 
+    "Description" : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente dicta fugit fugiat hic aliquam itaque facere, soluta. Totam id dolores, sint aperiam sequi pariatur praesentium animi perspiciatis molestias iure, ducimus!", 
+    "Price" : "750.00", 
+    "Stars" : 3.0, 
+    "Src" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/12.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("6029908009ebca602a3a9fd7"), 
+    "Category" : "Accessories", 
+    "Title" : "Ray Ban", 
+    "Description" : "The best glass you saw in your life time!", 
+    "Price" : 99.22, 
+    "Stars" : 5.0, 
+    "Src" : "https://assets.ray-ban.com/is/image/RayBan/8056597365109_shad_qt?$594$", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("6029976109ebca602a3aa001"), 
+    "Category" : "Jewelry", 
+    "Title" : "Sapphire & Diamond Earrings", 
+    "Description" : "A distinguished pair of earrings featuring upper parts studded with two round brilliant cut diamonds and three beautiful round sapphires. Suspended below is a hand selected Burmese pear cut sapphire, chosen for near perfect cut, colour and clarity attributes.", 
+    "Price" : 399.99, 
+    "Stars" : 5.0, 
+    "Src" : "https://www.qpjewellers.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/s/a/sapphire-and-diamond-belle-drop-earrings-in-white-gold-2998wa_2.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a78bd09ebca602a3aa00c"), 
+    "Category" : "Shirts", 
+    "Title" : "Purple T-shirt", 
+    "Description" : "Cut from stretch-jersey, this t-shirt has dropped shoulders that help to accentuate the boxy fit. Layer it over a rollneck on colder days.", 
+    "Price" : 14.0, 
+    "Stars" : 4.6, 
+    "Src" : "https://cache.mrporter.com/variants/images/10516758728013897/in/w1500_a3-4_ccrop_q80.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a7a7409ebca602a3aa00d"), 
+    "Category" : "Shirts", 
+    "Title" : "Black Sweatshirt", 
+    "Description" : "This sweater is made from the finest cotton and polyester. A must have to keep you warm!", 
+    "Price" : 22.99, 
+    "Stars" : 4.8, 
+    "Src" : "https://images.burton.co.uk/i/Burton/BR27C08RBLK_F_1.jpg?$w1300$&fmt=webp&qlt=80", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a7c7109ebca602a3aa00e"), 
+    "Category" : "Shirts", 
+    "Title" : "Check Flannel Shirt", 
+    "Description" : "Long sleeved checkered flannel shirt with comfortable inner layer and buttoned down front.", 
+    "Price" : 36.99, 
+    "Stars" : 4.0, 
+    "Src" : "https://gloimg.zafcdn.com/zaful/pdm-product-pic/Clothing/2020/03/31thumb-img/1585631523223432162.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a7d3009ebca602a3aa00f"), 
+    "Category" : "Shirts", 
+    "Title" : "Yellow Hoodie", 
+    "Description" : "Basic long sleeve drawstring hoodie to keep you warm through the coldest days!", 
+    "Price" : 22.99, 
+    "Stars" : 4.0, 
+    "Src" : "https://res.wmmart.com/site/img/item/2020/02/10/353996/584x584.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a7e0209ebca602a3aa010"), 
+    "Category" : "Jewelry", 
+    "Title" : "Sapphire Necklace", 
+    "Description" : "This classic solitaire pendant features a pear-shaped sapphire secured in a prong setting. A brilliant round diamond sits atop the blue gemstone adding to the design's charm. Simple yet appealing, this sapphire pendant in silver is crafted with a lustrous v-bale.", 
+    "Price" : 365.0, 
+    "Stars" : 5.0, 
+    "Src" : "https://pics.angara.com/abc/catalog/product/SP0169S/SL/A/6x4/1/SP0169S-SL-A-6x4.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a7ede09ebca602a3aa011"), 
+    "Category" : "Jewelry", 
+    "Title" : "Infinity Bracelet", 
+    "Description" : "Rhodium plating and white crystals perfectly complement each other in this elegant bangle. Featuring an infinity symbol, it sparkles like the first stars in the sky at dusk. The rhodium-plated chain and an elegant single crystal complete the design. An ideal gift for a special occasion – for a loved one or yourself", 
+    "Price" : 300.0, 
+    "Stars" : 4.7, 
+    "Src" : "https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:ffffff,c_scale,dpr_2.0,f_auto,w_500/5520584_png/swarovski-infinity-bangle--white--rhodium-plated-swarovski-5520584.png", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a7f7409ebca602a3aa012"), 
+    "Category" : "Jewelry", 
+    "Title" : "Gold Ring", 
+    "Description" : "This classic 14 yellow gold wedding ring will be a lifelong essential. The light overall weight of this style, its classic 4mm width, and low profile aesthetic make it perfect for everyday wear. The high polished finish and goes-with-anything styling are a timeless design.", 
+    "Price" : 180.0, 
+    "Stars" : 4.5, 
+    "Src" : "https://bnsec.bluenile.com/bluenile/is/image/bluenile/-classic-wedding-ring-14k-gold-4mm-/61083_main?$phab_detailmain$", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a808009ebca602a3aa013"), 
+    "Category" : "Jewelry", 
+    "Title" : "Blue Alligator Watch", 
+    "Description" : "Classic timepiece in stainless steel, complete with an elegant blue leather strap.", 
+    "Price" : 230.65, 
+    "Stars" : 4.4, 
+    "Src" : "https://content.thewosgroup.com/productimage/17710413/17710413_1.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a814909ebca602a3aa014"), 
+    "Category" : "Jewelry", 
+    "Title" : "Angelic Pierced Earrings", 
+    "Description" : "A timeless pair of rhodium-plated earrings for every occasion. Featuring sparkling clear crystal pavé and dangling elements, they give you that brilliant sparkle and combine easily with other jewelry.", 
+    "Price" : 320.99, 
+    "Stars" : 4.9, 
+    "Src" : "https://asset.swarovski.com/images/$size_1450/t_swa103/b_rgb:ffffff,c_scale,dpr_2.0,f_auto,w_500/5142721_png/angelic-pierced-earrings--white--rhodium-plated-swarovski-5142721.png", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a82c709ebca602a3aa015"), 
+    "Category" : "Jeans", 
+    "Title" : "Blue Jeans", 
+    "Description" : "Slim fit jeans made from organic cotton. Tapered leg and low rise for extra comfort!", 
+    "Price" : 36.99, 
+    "Stars" : 4.1, 
+    "Src" : "https://www.jackjones.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw364b347f/pim-static/large/12152347_BlueDenim_001_ProductLarge.jpg?sw=685", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a83dd09ebca602a3aa016"), 
+    "Category" : "Jeans", 
+    "Title" : "Black Jeans", 
+    "Description" : "Slim fit jeans made from organic cotton. Tapered leg and low rise for extra comfort!", 
+    "Price" : 36.99, 
+    "Stars" : 4.0, 
+    "Src" : "https://www.jackjones.com/dw/image/v2/ABBT_PRD/on/demandware.static/-/Sites-pim-catalog/default/dw0ab205ed/pim-static/large/12152346_BlackDenim_001_ProductLarge.jpg?sw=685", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a85bf09ebca602a3aa017"), 
+    "Category" : "Jeans", 
+    "Title" : "Brown Skate Jeans", 
+    "Description" : "Relaxed fit Denim Jeans in a brown black cotton denim, with a button and zip closure and belt hooks.", 
+    "Price" : 32.99, 
+    "Stars" : 4.3, 
+    "Src" : "https://www.consortium.co.uk/media/catalog/product/cache/1/image/1000x/af097278c5db4767b0fe9bb92fe21690/p/o/polar-skate-co-93-denim-jeans-brown-black-psc-f20-93denim-brnblk-cat.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a86cc09ebca602a3aa018"), 
+    "Category" : "Jeans", 
+    "Title" : "Beige Wide Jeans", 
+    "Description" : "A classic 5-pocket style with a twist. These mid-rise jeans are designed with an ecru-colour front panel, while the back panel features an overdyed white wash. Made from structured organic cotton denim, they are styled with loose, slightly curved legs", 
+    "Price" : 30.99, 
+    "Stars" : 4.4, 
+    "Src" : "https://lp.arket.com/app006prod?set=key[resolve.pixelRatio],value[2]&set=key[resolve.width],value[1302]&set=key[resolve.height],value[10000]&set=key[resolve.imageFit],value[containerwidth]&set=key[resolve.allowImageUpscaling],value[0]&set=key[resolve.format],value[jpeg]&set=key[resolve.quality],value[70]&set=source[/1f/31/1f3107d6af189b0602b78b10caec9e2a85a2aba7.jpg],origin[dam],type[DESCRIPTIVESTILLLIFE],ImageVersion[1]&call=url[file:/product/dynamic.chain]", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a875009ebca602a3aa019"), 
+    "Category" : "Jeans", 
+    "Title" : "Grey Jeans", 
+    "Description" : "Authentic grey jeans made from the finest cotton for a relaxed fit.", 
+    "Price" : 32.99, 
+    "Stars" : 3.9, 
+    "Src" : "https://cdn.nudiejeans.com/img/112599-01-Lean-Dean-Grey-Ace-flatshot_1600x1600.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a98b509ebca602a3aa01a"), 
+    "Category" : "Jeans", 
+    "Title" : "Pink Jeans", 
+    "Description" : "Pink hued jeans crafted from cotton, the style is shaped to cinch at the waist and is detailed with slanted pockets.", 
+    "Price" : 38.99, 
+    "Stars" : 4.8, 
+    "Src" : "https://img.mytheresa.com/1088/1088/66/jpeg/catalog/product/fd/P00438317.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a996a09ebca602a3aa01b"), 
+    "Category" : "Dresses", 
+    "Title" : "Red Dress", 
+    "Description" : "Frilled midi dress crafted with crisp cotton with slim shoulder straps and a squared neckline.", 
+    "Price" : 58.99, 
+    "Stars" : 4.7, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1371217_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9a0109ebca602a3aa01c"), 
+    "Category" : "Dresses", 
+    "Title" : "Black Dress", 
+    "Description" : "Black dress with sun-soaked aesthetic, crafted with hemp blended with wool with slim adjustable shoulder straps.", 
+    "Price" : 66.0, 
+    "Stars" : 4.9, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1397904_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9a8109ebca602a3aa01d"), 
+    "Category" : "Dresses", 
+    "Title" : "Light Blue Dress", 
+    "Description" : "Feather printed cotton dress with a tied waist and drawstring neckline.", 
+    "Price" : 42.99, 
+    "Stars" : 4.3, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1411719_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9b1009ebca602a3aa01e"), 
+    "Category" : "Dresses", 
+    "Title" : "Floral Dress", 
+    "Description" : "Floral patterned dress with a v-neck silhouette and puffy sleeves, perfect for a Summers day!", 
+    "Price" : 33.99, 
+    "Stars" : 3.9, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1412299_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9bc109ebca602a3aa01f"), 
+    "Category" : "Dresses", 
+    "Title" : "White Dress", 
+    "Description" : "White feathered midi dress that features a boat neckline and cape-inspired sleeves.", 
+    "Price" : 35.0, 
+    "Stars" : 4.6, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1400639_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9c7509ebca602a3aa020"), 
+    "Category" : "Dresses", 
+    "Title" : "Green Dress", 
+    "Description" : "Sage-green dress perfect for a joyous wedding or festival, made from lightweight linen.", 
+    "Price" : 42.99, 
+    "Stars" : 5.0, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1397908_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9d4009ebca602a3aa021"), 
+    "Category" : "Accessories", 
+    "Title" : "Beige Sunglasses", 
+    "Description" : "Oversized sunglasses with a round frame, accented with silver and gold tones at the template. Fitted for comfort!", 
+    "Price" : 80.0, 
+    "Stars" : 5.0, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1346718_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9e3709ebca602a3aa022"), 
+    "Category" : "Accessories", 
+    "Title" : "Brown Silk Scarf", 
+    "Description" : "Camel scarf crafted from silk twill with rolled edges.", 
+    "Price" : 28.99, 
+    "Stars" : 4.8, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1411284_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602a9f3f09ebca602a3aa023"), 
+    "Category" : "Accessories", 
+    "Title" : "Gold Sunglasses", 
+    "Description" : "Gold-framed aviator style sunglasses, crafted with gold-tone metal and dark tortoisehell arms.", 
+    "Price" : 88.99, 
+    "Stars" : 5.0, 
+    "Src" : "https://cache.mrporter.com/variants/images/10516758728602958/in/w1500_a3-4_ccrop_q80.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602a9fba09ebca602a3aa024"), 
+    "Category" : "Accessories", 
+    "Title" : "Black Beanie", 
+    "Description" : "Classic black wool beanie. A winter essential for everyone!", 
+    "Price" : 12.0, 
+    "Stars" : 4.6, 
+    "Src" : "https://cdn.shopify.com/s/files/1/0074/7103/8515/products/Merino_20Wool_20Hat-Hat-CS5085-Deep_20Black_510x@2x.progressive.jpg?v=1608255145", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa06b09ebca602a3aa025"), 
+    "Category" : "Accessories", 
+    "Title" : "Bucket Hat", 
+    "Description" : "Black bucket hat with minimal aesthetic and a laid-back feel, made from durable canvas with pared-back details.", 
+    "Price" : 14.65, 
+    "Stars" : 4.4, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1385920_1.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa11a09ebca602a3aa026"), 
+    "Category" : "Accessories", 
+    "Title" : "Black backpack", 
+    "Description" : "Lightweight backpack for casual days! A stylish and casual design with multiple compartments.", 
+    "Price" : 8.99, 
+    "Stars" : 4.0, 
+    "Src" : "https://asset1.cxnmarksandspencer.com/is/image/mands/Pro-Tect--Backpack-3/SD_03_T09_5318_Y0_X_EC_1?$PDP_IMAGEGRID_ZOOM_SM$", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa1e209ebca602a3aa027"), 
+    "Category" : "Shoes", 
+    "Title" : "Black Heeled Shoes", 
+    "Description" : "Point-toe leather pumps crafted from textured leather with beige insole.", 
+    "Price" : 60.5, 
+    "Stars" : 3.8, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1399030_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602aa26009ebca602a3aa028"), 
+    "Category" : "Shoes", 
+    "Title" : "Black Slides", 
+    "Description" : "Striking black slides made from the softes leather, featuring padded straps for a subversive look!", 
+    "Price" : 36.99, 
+    "Stars" : 5.0, 
+    "Src" : "https://assetsprx.matchesfashion.com/img/product/1300/1389559_1.jpg", 
+    "Sex" : "F"
+}
+{ 
+    "_id" : ObjectId("602aa34809ebca602a3aa029"), 
+    "Category" : "Shoes", 
+    "Title" : "Blue Trainers", 
+    "Description" : "Lightweight trainer that has everything to offer. Functional, stylish and affordable!", 
+    "Price" : 30.0, 
+    "Stars" : 4.8, 
+    "Src" : "https://images2.drct2u.com/pdp_main_tablet_x2/products/ci/ci439/o01ci235500s.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa3c709ebca602a3aa02a"), 
+    "Category" : "Shoes", 
+    "Title" : "Brown Boots", 
+    "Description" : "Tread softly in these sleek and stylish boots. Extreme comfort with an air-cushioned sole!", 
+    "Price" : 32.99, 
+    "Stars" : 4.6, 
+    "Src" : "https://images2.drct2u.com/pdp_main_tablet_x2/products/ci/ci044/o01ci044505s.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa44709ebca602a3aa02b"), 
+    "Category" : "Shoes", 
+    "Title" : "White Retro Trainers", 
+    "Description" : "A bit retro, a bit modern, full of style.", 
+    "Price" : 32.99, 
+    "Stars" : 4.6, 
+    "Src" : "https://images2.drct2u.com/pdp_main_tablet_x2/products/mk/mk069/s01mk069502c.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602aa4a809ebca602a3aa02c"), 
+    "Category" : "Shoes", 
+    "Title" : "Black Smart Shoes", 
+    "Description" : "Perfect formal style for every occasion, this slip-on shoe comes in a comfortable extra wide fitting.", 
+    "Price" : "40.00", 
+    "Stars" : 4.9, 
+    "Src" : "https://images2.drct2u.com/pdp_main_tablet_x2/products/ob/ob095/s01ob089720s.jpg", 
+    "Sex" : "M"
+}
+{ 
+    "_id" : ObjectId("602df94d16620000e3003d83"), 
+    "Title" : "Black muscle fit short sleeve shirt", 
+    "Category" : "Shirts", 
+    "Description" : "Easy iron  Poplin fabric Muscle fit Short sleeve Button-up front Our model wears a UK M and is 185.5cm/6'1'' tall", 
+    "Src" : "https://images.riverisland.com/is/image/RiverIsland/black-muscle-fit-short-sleeve-shirt_304607_main?$productImageLarge$", 
+    "Price" : "20.00", 
+    "Stars" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602fa10284180000c0001570"), 
+    "Title" : "Black denim jacket", 
+    "Category" : "Shirts", 
+    "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam voluptatem veniam, est atque cumque eum delectus sint!", 
+    "Src" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/15.jpg", 
+    "Price" : "140.00", 
+    "Stars" : NumberInt(3)
+}
+{ 
+    "_id" : ObjectId("602fa13a84180000c0001571"), 
+    "Title" : "Grey sweater", 
+    "Category" : "Shirts", 
+    "Description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam voluptatem veniam, est atque cumque eum delectus sint!", 
+    "Src" : "https://mdbootstrap.com/img/Photos/Horizontal/E-commerce/Vertical/14.jpg", 
+    "Price" : "120.00", 
+    "Stars" : NumberInt(3)
+}

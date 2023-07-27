@@ -1,0 +1,57 @@
+{ 
+    "_id" : ObjectId("602f73aba367543f345bf91a"), 
+    "User" : "60246c5958660000de001561", 
+    "Products" : {
+        "6004ca5fae9ac6362438b4ab" : 8.0, 
+        "6029908009ebca602a3a9fd7" : NumberInt(6), 
+        "602a7e0209ebca602a3aa010" : NumberInt(4), 
+        "602a7c7109ebca602a3aa00e" : NumberInt(4), 
+        "602fbefe57750000640024a2" : NumberInt(1)
+    }
+}
+{ 
+    "_id" : ObjectId("602f8932d2260000af0033f5"), 
+    "User" : "602eb3ef98fb87694905e65f", 
+    "Products" : {
+        "6029908009ebca602a3a9fd7" : NumberInt(4), 
+        "602a7e0209ebca602a3aa010" : NumberInt(1), 
+        "602a78bd09ebca602a3aa00c" : NumberInt(34), 
+        "602a7d3009ebca602a3aa00f" : NumberInt(2), 
+        "602872dd47043023e67bdff0" : NumberInt(6), 
+        "602fa10284180000c0001570" : NumberInt(2), 
+        "6004ca5fae9ac6362438b4ab" : NumberInt(5), 
+        "602fa13a84180000c0001571" : NumberInt(1)
+    }
+}
+{ 
+    "_id" : ObjectId("602fb5085775000064002498"), 
+    "User" : "602eb38398fb87694905e65c", 
+    "Products" : {
+        "6004ca5fae9ac6362438b4ab" : NumberInt(2)
+    }
+}
+{ 
+    "_id" : ObjectId("602fb874577500006400249a"), 
+    "User" : "602eb3d398fb87694905e65e", 
+    "Products" : {
+        "602872dd47043023e67bdff0" : NumberInt(6), 
+        "6004ca5fae9ac6362438b4ab" : NumberInt(6), 
+        "602a78bd09ebca602a3aa00c" : NumberInt(3), 
+        "602a7d3009ebca602a3aa00f" : NumberInt(6), 
+        "602a7ede09ebca602a3aa011" : NumberInt(3), 
+        "602a814909ebca602a3aa014" : NumberInt(2), 
+        "602a7f7409ebca602a3aa012" : NumberInt(1), 
+        "602aa26009ebca602a3aa028" : NumberInt(1), 
+        "602fa10284180000c0001570" : NumberInt(1), 
+        "602a7e0209ebca602a3aa010" : NumberInt(1)
+    }
+}
+{ 
+    "_id" : ObjectId("602fc17957750000640024a5"), 
+    "User" : ObjectId("602fc14e57750000640024a4"), 
+    "Products" : {
+        "602a7f7409ebca602a3aa012" : NumberInt(2), 
+        "602a78bd09ebca602a3aa00c" : NumberInt(1), 
+        "6004ca5fae9ac6362438b4ab" : NumberInt(1)
+    }
+}

@@ -1,0 +1,24 @@
+{ 
+    "_id" : ObjectId("60283dbc47043023e67bdfd1"), 
+    "User" : "60246c5958660000de001561", 
+    "Comment" : "Quality looks fine, but the size is too small.", 
+    "Stars" : 3.0, 
+    "Date" : "01/01/2019", 
+    "Product" : "6004ca5fae9ac6362438b4ab"
+}
+{ 
+    "_id" : ObjectId("6028561947043023e67bdfdc"), 
+    "User" : "6004c9b7ae9ac6362438b4a6", 
+    "Comment" : "I bought 3, one for me and the other 2 for my team members. They were so excited to wear the same team shirt", 
+    "Stars" : 4.0, 
+    "Date" : "12/12/2012", 
+    "Product" : "6004ca5fae9ac6362438b4ab"
+}
+{ 
+    "_id" : ObjectId("6028575147043023e67bdfe1"), 
+    "User" : "6004c961ae9ac6362438b4a5", 
+    "Comment" : "Nice shirt! I will definitely purchase one more.", 
+    "Stars" : 5.0, 
+    "Date" : "22/01/2021", 
+    "Product" : "6004ca5fae9ac6362438b4ab"
+}
