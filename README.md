@@ -2,11 +2,11 @@
 
 Welcome to the **PHP-Projects** repository! This repository contains two web application projects developed during the Computer Science second-year course. Each project focuses on web application development using PHP, JavaScript, and databases like MongoDB and Phaser.js.
 
-## Project 1: Snake-Game
+## Project 1: [Snake-Game](https://github.com/Francy93/PHP-Projects/tree/master/Snake-Game)
 
 The first project is a web application that combines PHP, JavaScript, and Phaser.js to create a classic Snake game. It also involves database integration for the dynamic "account" page functionality. When copying this website to Xampp's "htdocs" folder, ensure to extract all files directly into "htdocs" to enable the "account" page to function correctly.
 
-## Project 2: eCommerce
+## Project 2: [eCommerce](https://github.com/Francy93/PHP-Projects/tree/master/eCommerce)
 
 The second project is an eCommerce web application that uses PHP, JavaScript, and MongoDB for database management. It showcases web application development and database interactions to create a functional eCommerce platform.
 
