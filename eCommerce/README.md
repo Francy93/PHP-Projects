@@ -1,4 +1,4 @@
-# PHP_eCommerce
+# eCommerce
 JS, PHP &amp; MongoDB: Second project of the Computer Science second-year about WebApp and databases
 ![alt text](Report/img/Page1.jpg "Main page")
 ![alt text](Report/img/Page2.jpg "Main page")

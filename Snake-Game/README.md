@@ -1,4 +1,4 @@
-# PHP_Snake-Game
+# Snake-Game
 
 Hello, dear website project visitor.
 If you copy and paste this website into the Xampp "htdocs" folder, 
